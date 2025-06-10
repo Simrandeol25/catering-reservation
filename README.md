@@ -1,2 +1,2 @@
-# catering-reservation
-catering-reservation
+# CafeReservationSystem
+Catering Reservation System by Simran Deol
